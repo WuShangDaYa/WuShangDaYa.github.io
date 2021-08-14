@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/WuShangDaYa/WuShangDaYa.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-14T14:21:16.278Z</updated>
+    <updated>2021-08-14T14:36:11.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/WuShangDaYa/WuShangDaYa.github.io"/>
     <link rel="self" href="https://github.com/WuShangDaYa/WuShangDaYa.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://github.com/WuShangDaYa/WuShangDaYa.github.io/images/avatar.png</logo>
     <icon>https://github.com/WuShangDaYa/WuShangDaYa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[这是一篇测试文章]]></title>
+        <id>https://github.com/WuShangDaYa/WuShangDaYa.github.io/post/zhe-shi-yi-pian-ce-shi-wen-zhang/</id>
+        <link href="https://github.com/WuShangDaYa/WuShangDaYa.github.io/post/zhe-shi-yi-pian-ce-shi-wen-zhang/">
+        </link>
+        <updated>2021-08-14T14:32:37.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="测试一">测试一</h2>
+<h3 id="思考快与慢系统一与系统二的区别">思考，快与慢：系统一与系统二的区别</h3>
+<h2 id="测试二">测试二</h2>
+<p>🤡🤡🤡🤡</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://github.com/WuShangDaYa/WuShangDaYa.github.io/post/hello-gridea/</id>
